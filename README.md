@@ -7,7 +7,7 @@ This is a Django Rest Framework (DRF) based API for managing customers, orders, 
 1. **Clone the repository:**
 
    bash
-   `git clone https://github.com/yourusername/ecommerce-api.git`
+   `git clone https://github.com/gouravsingh311/testjob.git`
 
 2.**Navigate to the project directory:**
 
